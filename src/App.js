@@ -7,8 +7,6 @@ import PlanetDusty from './components/space/planetDusty'
 import PlanetDark from './components/space/planetDark'
 
 
-
-
 function App() {
   return (
     <BrowserRouter>
